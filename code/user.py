@@ -1,0 +1,6 @@
+n = input("Input name:\n")
+a = input("Input age:\n")
+p = input("Input place:\n")
+print("\nThis is", n)
+print("It's ", a)
+print("(S)he live in ", p)
